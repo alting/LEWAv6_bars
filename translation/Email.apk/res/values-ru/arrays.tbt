@@ -1,0 +1,78 @@
+    <string-array name="account_settings_check_frequency_entries">
+    </string-array>
+    <string-array name="account_settings_check_frequency_entries_push">
+    </string-array>
+    <string-array name="account_settings_check_frequency_values">
+        <item>-1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_values_push">
+        <item>-5</item>
+        <item>-2</item>
+        <item>-1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_entries">
+    </string-array>
+    <string-array name="account_settings_mail_window_entries_with_default">
+    </string-array>
+    <string-array name="account_settings_mail_window_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values_with_default">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="combined_view_account_colors">
+    </string-array>
+    <string-array name="general_preference_auto_advance_entries">
+    </string-array>
+    <string-array name="general_preference_auto_advance_values">
+        <item>newer</item>
+        <item>older</item>
+        <item>list</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_entries">
+    </string-array>
+    <string-array name="general_preference_text_zoom_size">
+        <item>0.8</item>
+        <item>0.9</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.5</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_values">
+        <item>tiny</item>
+        <item>small</item>
+        <item>normal</item>
+        <item>large</item>
+        <item>huge</item>
+    </string-array>
+    <string-array name="mailbox_display_icons">
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="mailbox_display_names">
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="subject_lengths">
+    </string-array>

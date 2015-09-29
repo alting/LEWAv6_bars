@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">LIP-сервис</string>
-
-    <string name="download">Загрузка</string>
-    <string name="notification_have_update">Можно обновить!</string>
-    <string name="notification_update_all">Приложения</string>
-    <string name="notification_update_game">Игры</string>
-    <string name="notification_etc">далее</string>
-    <string name="notification_have_new_version">Есть новая версия</string>
-    <string name="no_network">Не удается подключиться к сети</string>
-    <string name="in_the_mobile_network_environment">Используется передача данных, возможно потребление трафика. Продолжить?</string>
-    <string name="download_prompt">Разрешение загрузки</string>
-    <string name="confirm">Подтвердить</string>
-    <string name="cancel">Отмена</string>
-    <string name="install">Установка</string>
-    <string name="download_now">Загрузить сейчас</string>
-
-
-
-
-
-
+     <string name="app_name">LIP-сервис</string>
+     <string name="cancel">Отмена</string>
+     <string name="confirm">Подтвердить</string>
+     <string name="device">phone</string>
+     <string name="download">Загрузка</string>
+     <string name="download_now">Загрузить сейчас</string>
+     <string name="download_prompt">Разрешение загрузки</string>
+     <string name="ga_trackingId">UA-51356579-3</string>
+     <string name="in_the_mobile_network_environment">Используется передача данных, возможно потребление трафика. Продолжить?</string>
+     <string name="install">Установка</string>
+     <string name="no_network">Не удается подключиться к сети</string>
+     <string name="notification_etc">далее</string>
+     <string name="notification_have_new_version">Есть новая версия</string>
+     <string name="notification_have_update">Можно обновить!</string>
+     <string name="notification_update_all">Приложения</string>
+     <string name="notification_update_game">Игры</string>
+     <string name="package_name_appstore">com.lewa.appstore</string>
+     <string name="package_name_gamecenter">com.lewa.gamecenter</string>
+     <string name="payload_receiver_action">com.igexin.sdk.action.6e2713a6efee97bacb63e52c54f0ada0</string>
+     <string name="push_appid">6e2713a6efee97bacb63e52c54f0ada0</string>
+     <string name="push_appkey">qLNgmXHqYw8M2I8U0V8yk</string>
+     <string name="push_appsecret">8O03598mV38HiQ5oCKBaI3</string>
+     <string name="versioncode">11</string>
+     <string name="versionname">1.1.6</string>
 </resources>

@@ -1,0 +1,12 @@
+    <string-array name="bt_uart">
+        <item>UART1</item>
+        <item>UART2</item>
+        <item>UART3</item>
+        <item>UART4</item>
+    </string-array>
+    <string-array name="mTddNetworkLabels">
+        <item>TD-SCDMA preferred</item>
+        <item>GSM only</item>
+        <item>TD-SCDMA only</item>
+        <item>GSM/TD-SCDMA(auto)</item>
+    </string-array>

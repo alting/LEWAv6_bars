@@ -1,0 +1,25 @@
+    <string-array name="desktop_transition_effect_values">
+        <item>Standard</item>
+        <item>OverShoot</item>
+        <item>RotateDown</item>
+        <item>Flip</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>Accordion</item>
+        <item>CarouselLeft</item>
+    </string-array>
+    <string-array name="hiddenApps">
+        <item>com.yaoo.qlauncher</item>
+        <item>com.family.healthalarm</item>
+        <item>com.family.calendar</item>
+        <item>me.chunyu.CYElder</item>
+        <item>com.iflytek.cmcc</item>
+        <item>com.family.notepad</item>
+    </string-array>
+    <string-array name="smart_sort_dialog_items">
+    </string-array>
+    <string-array name="wallpapers">
+    </string-array>
+    <string-array name="widget_update_delays">
+        <item>com.when.android.calendar365</item>
+    </string-array>
